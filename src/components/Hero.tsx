@@ -26,7 +26,7 @@ const Hero = () => {
           </div>
           <div className="relative">
             <img
-              src="https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=600&h=400&fit=crop"
+              src="https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2000&q=80"
               alt="Спортивное снаряжение"
               className="w-full h-96 object-cover rounded-lg shadow-2xl"
             />

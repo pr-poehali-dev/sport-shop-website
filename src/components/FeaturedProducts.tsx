@@ -8,7 +8,7 @@ const FeaturedProducts = () => {
       price: 8990,
       originalPrice: 12990,
       image:
-        "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400&h=300&fit=crop",
+        "https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
       rating: 4.8,
       category: "Обувь",
     },
@@ -17,7 +17,7 @@ const FeaturedProducts = () => {
       name: "Гантели разборные 20кг",
       price: 4500,
       image:
-        "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=400&h=300&fit=crop",
+        "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
       rating: 4.6,
       category: "Фитнес",
     },
@@ -27,7 +27,7 @@ const FeaturedProducts = () => {
       price: 2890,
       originalPrice: 3490,
       image:
-        "https://images.unsplash.com/photo-1614632537190-23e4b194b2ac?w=400&h=300&fit=crop",
+        "https://images.unsplash.com/photo-1614632537190-23e4b194b2ac?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
       rating: 4.9,
       category: "Футбол",
     },
@@ -36,7 +36,7 @@ const FeaturedProducts = () => {
       name: "Теннисная ракетка Wilson Pro",
       price: 15900,
       image:
-        "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=400&h=300&fit=crop",
+        "https://images.unsplash.com/photo-1622279457486-62dcc4a431d6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
       rating: 4.7,
       category: "Теннис",
     },
@@ -45,7 +45,7 @@ const FeaturedProducts = () => {
       name: "Баскетбольный мяч Spalding",
       price: 3200,
       image:
-        "https://images.unsplash.com/photo-1546519638-68e109498ffc?w=400&h=300&fit=crop",
+        "https://images.unsplash.com/photo-1578662996442-48f60103fc96?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
       rating: 4.5,
       category: "Баскетбол",
     },
@@ -55,7 +55,7 @@ const FeaturedProducts = () => {
       price: 2100,
       originalPrice: 2800,
       image:
-        "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=400&h=300&fit=crop",
+        "https://images.unsplash.com/photo-1601925260368-ae2f83cf8b7f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
       rating: 4.8,
       category: "Йога",
     },

@@ -6,42 +6,42 @@ const Categories = () => {
       name: "Футбол",
       icon: "Zap",
       image:
-        "https://images.unsplash.com/photo-1579952363873-27d3bfad9c0d?w=300&h=200&fit=crop",
+        "https://images.unsplash.com/photo-1574629810360-7efbbe195018?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
       count: "150+ товаров",
     },
     {
       name: "Баскетбол",
       icon: "Circle",
       image:
-        "https://images.unsplash.com/photo-1546519638-68e109498ffc?w=300&h=200&fit=crop",
+        "https://images.unsplash.com/photo-1578662996442-48f60103fc96?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
       count: "80+ товаров",
     },
     {
       name: "Теннис",
       icon: "Target",
       image:
-        "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=300&h=200&fit=crop",
+        "https://images.unsplash.com/photo-1595435934249-5df7ed86e1c0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
       count: "60+ товаров",
     },
     {
       name: "Фитнес",
       icon: "Activity",
       image:
-        "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=300&h=200&fit=crop",
+        "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
       count: "200+ товаров",
     },
     {
       name: "Плавание",
       icon: "Waves",
       image:
-        "https://images.unsplash.com/photo-1530549387789-4c1017266635?w=300&h=200&fit=crop",
+        "https://images.unsplash.com/photo-1530549387789-4c1017266635?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
       count: "45+ товаров",
     },
     {
       name: "Йога",
       icon: "Heart",
       image:
-        "https://images.unsplash.com/photo-1506629905496-f2fc841af9b5?w=300&h=200&fit=crop",
+        "https://images.unsplash.com/photo-1601925260368-ae2f83cf8b7f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
       count: "35+ товаров",
     },
   ];
